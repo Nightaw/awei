@@ -1,0 +1,10 @@
+# 忽略系统文件和文件夹
+AppData/
+Local Settings/
+awei/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+Cookies/
